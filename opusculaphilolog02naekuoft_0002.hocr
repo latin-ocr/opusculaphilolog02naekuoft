@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculaphilolog02naekuoft/opusculaphilolog02naekuoft_0002.png"; bbox 0 0 1820 3141; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1401 2771 1606 2841">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1401 2771 1606 2841">
+     <span class='ocr_line' id='line_1_1' title="bbox 1401 2771 1606 2800; baseline -0.024 0"><span class='ocrx_word' id='word_1_1' title='bbox 1401 2771 1606 2800; x_wconf 70' lang='lat' dir='ltr'>HANDBOUND</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1442 2815 1568 2841; baseline -0.008 0"><span class='ocrx_word' id='word_1_2' title='bbox 1442 2816 1488 2841; x_wconf 85' lang='grc' dir='ltr'>ΑΤ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1503 2815 1568 2840; x_wconf 76' lang='lat' dir='ltr'>THE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1471 2869 1543 2974">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1471 2869 1543 2974">
+     <span class='ocr_line' id='line_1_3' title="bbox 1471 2869 1543 2974; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 1471 2869 1543 2974; x_wconf 45' lang='grc' dir='ltr'>ὢ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1379 2990 1644 3063">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1379 2990 1644 3063">
+     <span class='ocr_line' id='line_1_4' title="bbox 1384 2990 1638 3021; baseline -0.02 0"><span class='ocrx_word' id='word_1_5' title='bbox 1384 2992 1578 3021; x_wconf 81' lang='lat' dir='ltr'><strong>UNlVF-RSITY</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1595 2990 1638 3016; x_wconf 73' lang='grc' dir='ltr'>ΟΡ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1379 3033 1644 3063; baseline -0.015 0"><span class='ocrx_word' id='word_1_7' title='bbox 1379 3036 1535 3063; x_wconf 76' lang='lat' dir='ltr'>TORONTO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1551 3033 1644 3060; x_wconf 78' lang='lat' dir='ltr'>PRESS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1319 0 1820 3141">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1319 0 1820 3141">
+     <span class='ocr_line' id='line_1_6' title="bbox 1319 0 1820 3141; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 1319 0 1820 3141; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
